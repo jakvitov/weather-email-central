@@ -1,6 +1,17 @@
 # Weather-email central repository
 A central repository for Weather email project, that holds compose files and deployment configurations for the whole project as well as documentation.
 
+## Microservice repositories
+
+- [Weather api consumer](https://github.com/jakvitov/weather-api-consumer)
+
+- [Weather email producer](https://github.com/jakvitov/weather-email-producer)
+
+- [Weather dto](https://github.com/jakvitov/weather-dto)
+
+- [Weather user administration](https://github.com/jakvitov/weather-user-administration)
+
+
 ## Architecture
 The whole project is build using a microservice, not because it was suitable for this project, but rather because I wanted to try out designing a whole applictaion from the very beginning myself, using this pattern. 
 
@@ -14,3 +25,4 @@ The whole project is build using a microservice, not because it was suitable for
 
 ## Todo list
 [Todo list](https://github.com/users/jakvitov/projects/2/views/1)
+
