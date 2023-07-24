@@ -5,7 +5,7 @@ A central repository for Weather email project, that holds compose files and dep
 The whole project is build using a microservice, not because it was suitable for this project, but rather because I wanted to try out designing a whole applictaion from the very beginning myself, using this pattern. 
 
 ## Microservice diagram
-![Application architecture diagram](../weather-email-central/diagrams/Weather-email-microservice-diagram.jpeg)
+![Application architecture diagram](https://github.com/jakvitov/weather-email-central/blob/main/diagrams/Weather-email-microservice-diagram.jpeg)
 
 ## Deployment
 - This project is made as a personal one and is deployed only for my personal use on free tier Oracle cloud. Because of that, the application is deployed only using Docker compose and not Kubernetes. 
