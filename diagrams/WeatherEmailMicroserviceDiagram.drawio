@@ -1,9 +1,127 @@
-<mxfile host="Electron" modified="2023-07-28T15:46:55.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="45qc_NdwNxt9GWToRcgg" version="21.6.5" type="device">
+<mxfile host="Electron" modified="2023-07-30T12:52:50.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="-66GAFX_VgBJZ8eu3Dbn" version="21.6.5" type="device">
   <diagram name="Page-1" id="yvMuT_vzadAieQc7Wc1n">
-    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="3ioDwAA6a8Dou9nwrUEn-1" target="3ioDwAA6a8Dou9nwrUEn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-45" value="Manage users" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3ioDwAA6a8Dou9nwrUEn-6">
+          <mxGeometry x="-0.007" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="3ioDwAA6a8Dou9nwrUEn-1" target="3ioDwAA6a8Dou9nwrUEn-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-39" value="Get users to notify" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3ioDwAA6a8Dou9nwrUEn-25">
+          <mxGeometry x="0.1085" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="3ioDwAA6a8Dou9nwrUEn-1" target="3ioDwAA6a8Dou9nwrUEn-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-40" value="Get info for cities" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3ioDwAA6a8Dou9nwrUEn-27">
+          <mxGeometry x="-0.0834" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-1" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;weather-user-administration&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#2087E2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="240.01" y="350" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="272.82" y="360" width="24.39" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="3ioDwAA6a8Dou9nwrUEn-5" target="3ioDwAA6a8Dou9nwrUEn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-34" value="User administration&lt;br&gt;web application" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3ioDwAA6a8Dou9nwrUEn-9">
+          <mxGeometry x="-0.0494" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-5" value="Security" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.security;" vertex="1" parent="1">
+          <mxGeometry x="48.75" y="435" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-8" value="" style="shape=mxgraph.cisco.computers_and_peripherals.web_browser;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60.25" y="593.5" width="62" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" vertex="1" parent="1">
+          <mxGeometry x="266.26" y="200" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="3ioDwAA6a8Dou9nwrUEn-15" target="3ioDwAA6a8Dou9nwrUEn-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-42" value="Get weather for geocodes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3ioDwAA6a8Dou9nwrUEn-26">
+          <mxGeometry x="0.2381" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ioDwAA6a8Dou9nwrUEn-15" target="3ioDwAA6a8Dou9nwrUEn-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-38" value="Sends email to users" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3ioDwAA6a8Dou9nwrUEn-37">
+          <mxGeometry x="-0.02" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-15" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;weather-email-producer&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#2087E2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="369" y="480" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-16" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="401.80999999999995" y="490" width="24.39" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="3ioDwAA6a8Dou9nwrUEn-17" target="3ioDwAA6a8Dou9nwrUEn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-35" value="Persist user and city data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3ioDwAA6a8Dou9nwrUEn-22">
+          <mxGeometry x="-0.1143" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-17" value="User database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235.01" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3ioDwAA6a8Dou9nwrUEn-18" target="3ioDwAA6a8Dou9nwrUEn-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3ioDwAA6a8Dou9nwrUEn-18" target="3ioDwAA6a8Dou9nwrUEn-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-41" value="Get weather" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3ioDwAA6a8Dou9nwrUEn-32">
+          <mxGeometry x="0.1872" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-18" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;weather-api-consumer&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#2087E2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="490" y="350" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-19" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="522.81" y="360" width="24.39" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-20" value="Api ninjas - geocoding" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="700" y="355" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-21" value="Open Weather&lt;br&gt;Api&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="700" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-23" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;weather-dto&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#2087E2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="550" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-24" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="632.81" y="560" width="24.39" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-36" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.message;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="620" width="50" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-44" value="Shared DTOs among microservices" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="638" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ioDwAA6a8Dou9nwrUEn-46" value="&lt;h1&gt;Weather-email application microservice diagram&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="123.99999999999999" y="120" width="580" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
