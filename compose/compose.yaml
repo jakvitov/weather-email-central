@@ -1,0 +1,21 @@
+version: 0.0.1
+services:
+  wac:
+    image: wac:latest
+    expose: 
+    - "8080"
+    env_file:
+      - ../env/env-variables.env
+  wua:
+    image: wua:latest
+    network_mode: "host"
+    expose: 
+    - "8082"
+    env_file:
+      - ../env/env-variables.env  
+  wep:
+    image: wep:latest
+    expose:
+    - "8081"
+    env_file:
+      - ../env/env-variables.env
