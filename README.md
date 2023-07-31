@@ -20,8 +20,9 @@ The whole project is build using a microservice, not because it was suitable for
 
 ## Deployment
 - This project is made as a personal one and is deployed only for my personal use on free tier Oracle cloud. Because of that, the application is deployed only using Docker compose and not Kubernetes. 
-- For testing purposes, some microservices have local deployment *.bat* script to build and run them as individual Docker container on port 8080.
-- When deploying the container using the deployment *.bat* file, you need to set all the necessary *env* variables on your system. (such as api keys etc.)
+- Docker image can be created with given Dockerfile for any of the microservices.
+- Then the compose.yaml is used to compose the container.
+- All environment vaiables need to be specified in ./env/env-variables.env
 
 ## Todo list
 [Todo list](https://github.com/users/jakvitov/projects/2/views/1)
