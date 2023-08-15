@@ -7,7 +7,7 @@ A central repository for Weather email project, that holds compose files and dep
 
 - [Weather graph generator - not yet made](#)
 
-- [Weather email service UI (React frontend)](#)
+- [Weather email service UI (React frontend)](https://github.com/jakvitov/web-email-service-ui)
 
 
 ## Services diagram
