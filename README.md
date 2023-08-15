@@ -3,7 +3,7 @@ A central repository for Weather email project, that holds compose files and dep
 
 ## Microservice repositories
 
-- [Weather email service (Java backend)]((https://github.com/jakvitov/weather-email-service))
+- [Weather email service (Java backend)](https://github.com/jakvitov/weather-email-service)
 
 - [Weather graph generator - not yet made](#)
 
